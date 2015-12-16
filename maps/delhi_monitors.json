@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+
+{ "type": "Feature", "properties": { "NAME": "Delhi College of Engineering",  "LATITUDE":28.750709,  "LONGITUDE":77.117261 },  "geometry": { "type": "Point", "coordinates": [77.117261, 28.750709]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Anand Vihar",  "LATITUDE":28.65084,  "LONGITUDE":77.315667 },  "geometry": { "type": "Point", "coordinates": [77.315667, 28.65084]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Ihbas",  "LATITUDE":28.682644,  "LONGITUDE":77.302658 },  "geometry": { "type": "Point", "coordinates": [77.302658, 28.682644]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Civil Lines",  "LATITUDE":28.679368,  "LONGITUDE":77.228168 },  "geometry": { "type": "Point", "coordinates": [77.228168, 28.679368]}}
+,
+{ "type": "Feature", "properties": { "NAME": "ITO",  "LATITUDE":28.622513,  "LONGITUDE":77.247894 },  "geometry": { "type": "Point", "coordinates": [77.247894, 28.622513]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Mandir Marg",  "LATITUDE":28.633103,  "LONGITUDE":77.200494 },  "geometry": { "type": "Point", "coordinates": [77.200494, 28.633103]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Shadipur",  "LATITUDE":28.652229,  "LONGITUDE":77.15642 },  "geometry": { "type": "Point", "coordinates": [77.15642, 28.652229]}}
+,
+{ "type": "Feature", "properties": { "NAME": "IGI Airport",  "LATITUDE":28.556422,  "LONGITUDE":77.09498 },  "geometry": { "type": "Point", "coordinates": [77.09498, 28.556422]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Punjabi Bagh",  "LATITUDE":28.668298,  "LONGITUDE":77.116554 },  "geometry": { "type": "Point", "coordinates": [77.116554, 28.668298]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Dwarka",  "LATITUDE":28.589779,  "LONGITUDE":77.049263 },  "geometry": { "type": "Point", "coordinates": [77.049263, 28.589779]}}
+,
+{ "type": "Feature", "properties": { "NAME": "R.K. Puram",  "LATITUDE":28.565141,  "LONGITUDE":77.175291 },  "geometry": { "type": "Point", "coordinates": [77.175291, 28.565141]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Faridabad Sector 16A",  "LATITUDE":28.405615,  "LONGITUDE":77.3123763 },  "geometry": { "type": "Point", "coordinates": [77.312376, 28.405615]}}
+
+]
+}

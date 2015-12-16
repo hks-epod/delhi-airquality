@@ -1,0 +1,1 @@
+topojson --simplify-proportion .1 -p state_name=NAME,state_code=STATE_ID -o delhi-topo-10.json -- Delhi.shp

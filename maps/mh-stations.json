@@ -1,0 +1,62 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Akola",  "LATITUDE":20.7,  "LONGITUDE":77.0 },  "geometry": { "type": "Point",  "coordinates": [77.0, 20.7]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Ambernath",  "LATITUDE":19.209,  "LONGITUDE":73.186 },  "geometry": { "type": "Point",  "coordinates": [73.186, 19.209]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Amravati",  "LATITUDE":20.93,  "LONGITUDE":77.75 },  "geometry": { "type": "Point",  "coordinates": [77.75, 20.93]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Aurangabad",  "LATITUDE":19.88,  "LONGITUDE":75.32 },  "geometry": { "type": "Point",  "coordinates": [75.32, 19.88]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Badlapur",  "LATITUDE":19.15,  "LONGITUDE":73.262 },  "geometry": { "type": "Point",  "coordinates": [73.262, 19.15]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Bhiwandi",  "LATITUDE":19.297,  "LONGITUDE":73.063 },  "geometry": { "type": "Point",  "coordinates": [73.063, 19.297]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Chandrapur",  "LATITUDE":19.95,  "LONGITUDE":79.3 },  "geometry": { "type": "Point",  "coordinates": [79.3, 19.95]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Dahanu",  "LATITUDE":19.97,  "LONGITUDE":72.73 },  "geometry": { "type": "Point",  "coordinates": [72.73, 19.97]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Dombivali",  "LATITUDE":19.218,  "LONGITUDE":73.087 },  "geometry": { "type": "Point",  "coordinates": [73.087, 19.218]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Jalgaon",  "LATITUDE":20.998,  "LONGITUDE":75.567 },  "geometry": { "type": "Point",  "coordinates": [75.567, 20.998]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Jalna",  "LATITUDE":19.83,  "LONGITUDE":75.88 },  "geometry": { "type": "Point",  "coordinates": [75.88, 19.83]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Kalyan",  "LATITUDE":19.237,  "LONGITUDE":73.13 },  "geometry": { "type": "Point",  "coordinates": [73.13, 19.237]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Kolhapur",  "LATITUDE":16.69,  "LONGITUDE":74.23 },  "geometry": { "type": "Point",  "coordinates": [74.23, 16.69]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Latur",  "LATITUDE":18.4,  "LONGITUDE":76.56 },  "geometry": { "type": "Point",  "coordinates": [76.56, 18.4]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Lote",  "LATITUDE":17.72,  "LONGITUDE":73.38 },  "geometry": { "type": "Point",  "coordinates": [73.38, 17.72]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Mumbai",  "LATITUDE":18.975,  "LONGITUDE":72.826 },  "geometry": { "type": "Point",  "coordinates": [72.826, 18.975]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Mumbai Metro",  "LATITUDE":19.079,  "LONGITUDE":73.0 },  "geometry": { "type": "Point",  "coordinates": [73.0882, 19.079]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Nagpur",  "LATITUDE":21.15,  "LONGITUDE":79.09 },  "geometry": { "type": "Point",  "coordinates": [79.09, 21.15]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Nanded",  "LATITUDE":19.15,  "LONGITUDE":77.3 },  "geometry": { "type": "Point",  "coordinates": [77.3, 19.15]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Nashik",  "LATITUDE":20.0,  "LONGITUDE":73.78 },  "geometry": { "type": "Point",  "coordinates": [73.78, 20.0]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Navi Mumbai",  "LATITUDE":19.02,  "LONGITUDE":73.02 },  "geometry": { "type": "Point",  "coordinates": [73.02, 19.02]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Panvel",  "LATITUDE":18.98,  "LONGITUDE":73.1 },  "geometry": { "type": "Point",  "coordinates": [73.1, 18.98]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Pune",  "LATITUDE":18.52,  "LONGITUDE":73.86 },  "geometry": { "type": "Point",  "coordinates": [73.86, 18.52]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Sangli",  "LATITUDE":16.867,  "LONGITUDE":74.567 },  "geometry": { "type": "Point",  "coordinates": [74.567, 16.867]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Solapur",  "LATITUDE":17.68,  "LONGITUDE":75.92 },  "geometry": { "type": "Point",  "coordinates": [75.92, 17.68]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Taloja",  "LATITUDE":19.079,  "LONGITUDE":73.0882 },  "geometry": { "type": "Point",  "coordinates": [73.0882, 19.079]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Thane",  "LATITUDE":19.172431,  "LONGITUDE":72.957 },  "geometry": { "type": "Point",  "coordinates": [72.957, 19.172431]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Ulhasnagar",  "LATITUDE":19.22,  "LONGITUDE":73.15 },  "geometry": { "type": "Point",  "coordinates": [73.15, 19.22]}}
+
+]
+}

@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Anand Vihar",  "LATITUDE":28.65084,  "LONGITUDE":77.315667 },  "geometry": { "type": "Point", "coordinates": [77.315667, 28.65084]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Civil Lines",  "LATITUDE":28.679368,  "LONGITUDE":77.228168 },  "geometry": { "type": "Point", "coordinates": [77.228168, 28.679368]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Mandir Marg",  "LATITUDE":28.633103,  "LONGITUDE":77.200494 },  "geometry": { "type": "Point", "coordinates": [77.200494, 28.633103]}}
+,
+{ "type": "Feature", "properties": { "NAME": "IGI Airport",  "LATITUDE":28.556422,  "LONGITUDE":77.09498 },  "geometry": { "type": "Point", "coordinates": [77.09498, 28.556422]}}
+,
+{ "type": "Feature", "properties": { "NAME": "Punjabi Bagh",  "LATITUDE":28.668298,  "LONGITUDE":77.116554 },  "geometry": { "type": "Point", "coordinates": [77.116554, 28.668298]}}
+,
+{ "type": "Feature", "properties": { "NAME": "R K Puram",  "LATITUDE":28.565141,  "LONGITUDE":77.175291 },  "geometry": { "type": "Point", "coordinates": [77.175291, 28.565141]}}
+]
+}
